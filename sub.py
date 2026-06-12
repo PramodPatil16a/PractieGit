@@ -7,8 +7,8 @@ print("substaction of numbers :" , (a-b))
 print("substaction of numbers :" , (a-c))
 
 # using input interactive
-def numbers(a, b, c):
-    return a - b - c
+def numbers(a, b, c, d):
+    return a - b - c - d
 
 # Take values from user
 a = int(input("Enter 1st number: "))
