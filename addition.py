@@ -9,5 +9,8 @@ def add_numbers():
     d = int(input("Enter d number: "))
     print("Sum is:", c + d)
 
+def sub_numbers():
+    print("sub is:", a-b)
+
 # Call the function
 add_numbers()
