@@ -12,9 +12,5 @@ def add_numbers():
 def sub_numbers():
     print("sub is:", a-b)
 
-#devA code
-def multi_numbers():
-    return a*b
-
 # Call the function
 add_numbers()
